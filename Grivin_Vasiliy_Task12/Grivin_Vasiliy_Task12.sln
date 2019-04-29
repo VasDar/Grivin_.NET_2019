@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{E09F2449-9584-467E-925C-46631C53FD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User-defined exceptions", "User-defined exceptions\User-defined exceptions.csproj", "{EF69C7FF-FFAC-44C3-9877-982D2A1F5AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09F2449-9584-467E-925C-46631C53FD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09F2449-9584-467E-925C-46631C53FD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09F2449-9584-467E-925C-46631C53FD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09F2449-9584-467E-925C-46631C53FD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF69C7FF-FFAC-44C3-9877-982D2A1F5AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF69C7FF-FFAC-44C3-9877-982D2A1F5AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF69C7FF-FFAC-44C3-9877-982D2A1F5AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF69C7FF-FFAC-44C3-9877-982D2A1F5AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7ED8AD-55B7-4B95-B63A-85CF89E6AE83}
+	EndGlobalSection
+EndGlobal
